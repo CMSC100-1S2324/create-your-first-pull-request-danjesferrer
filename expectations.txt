@@ -1,0 +1,6 @@
+Author: Danjes Andreinne S. Ferrer
+
+Expectations:
+- I expect our laboratory instructor to teach complex topic in CMSC 100 as easy as possible.
+- I expect that I can grasp enough knowledge to build a web application after taking this course.
+- I expect our laboratory instructor to be lenient in deadlines when uncertainties happens like typhoons, etc.
